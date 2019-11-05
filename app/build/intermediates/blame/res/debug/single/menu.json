@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_university__scrolling.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\menu_university__scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_toefl__scrolling.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\menu_toefl__scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_ielts__scrolling.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\menu_ielts__scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gre__scrolling.xml",
+        "source": "C:\\Users\\New\\AndroidStudioProjects\\MSBUDDY\\app\\src\\main\\res\\menu\\menu_gre__scrolling.xml"
+    }
+]

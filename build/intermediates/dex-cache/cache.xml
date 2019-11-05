@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_618ed8aa421cf2303096363f40f17aa52073aabb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="091c194e52cea6b0533367ad57d7d2e8f8258613">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_90dcfa077bf2076a8fa85bf52b38e4f48fbc613b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.volley\volley\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.1.0_9effd315116fe212b0f1f30259b8152791016518\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_8dbf8823d52e9081a0ca9e461b719f9913fbaf16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32fec41894a904922c8dbc23eccff90b6d6fc572">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5fe20661a258a94a3258f15aa81c16458b07c24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_9ce766ffbe4aa8d6ba12361cf1c39a84b08f32cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_614cd4ba509e1300f9deb98650f9d6800cdf5126\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_e7b705bcb5cf76dafbea47fa6c0024657d196afc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_3f689cf097219d45b61a16346cd0d169dddefb1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_cfcea2df17ad3f1d4453d90a268e891a74a98218\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_d7b66ae161ec16ddd56f1265df945917de28e44a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_4d05fa9679470bb4cafd85f2e9853a2682e2a6b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\New\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\New\AndroidStudioProjects\MSBUDDY\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_aac96c840c86494f283a648bb697e890691174a7\classes.dex" />
+    </item>
+
+</items>
